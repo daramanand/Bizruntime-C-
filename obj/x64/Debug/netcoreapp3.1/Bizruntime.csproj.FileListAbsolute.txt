@@ -1,0 +1,13 @@
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\bin\x64\Debug\netcoreapp3.1\Bizruntime.exe
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\bin\x64\Debug\netcoreapp3.1\Bizruntime.deps.json
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\bin\x64\Debug\netcoreapp3.1\Bizruntime.runtimeconfig.json
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\bin\x64\Debug\netcoreapp3.1\Bizruntime.runtimeconfig.dev.json
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\bin\x64\Debug\netcoreapp3.1\Bizruntime.dll
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\bin\x64\Debug\netcoreapp3.1\Bizruntime.pdb
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.csprojAssemblyReference.cache
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.AssemblyInfoInputs.cache
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.AssemblyInfo.cs
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.csproj.CoreCompileInputs.cache
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.dll
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.pdb
+C:\Users\uccan\source\repos\Bizruntime\Bizruntime\obj\x64\Debug\netcoreapp3.1\Bizruntime.genruntimeconfig.cache

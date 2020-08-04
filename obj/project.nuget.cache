@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ihq4+axziL4TXqxFLTLRs1CoVOr4T72V4cq+hIyT7LHTQK5LvtiNscYO6Bulau6N9VRBl35dR90wX4SPSYtkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uccan\\source\\repos\\Bizruntime\\Bizruntime\\Bizruntime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uccan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
